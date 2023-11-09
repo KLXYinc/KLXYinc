@@ -1,7 +1,10 @@
 # Hi, I'm [KLXYinc](https://github.com/KLXYinc) 👋
 
 ## About Me
-I'm a software developer passionate about creating applications with Java and Python. I have experience in developing websites using HTML, CSS, and JavaScript, and I'm proficient in frameworks like Node.js and Vue.js for building dynamic web applications. I enjoy working with Flask to develop APIs and backend services.
+I'm a software developer passionate about creating applications with Java and Python. I have experience in developing websites using HTML, CSS, and JavaScript, and I'm proficient in frameworks like Node.js and React.js for building dynamic web applications. I enjoy working with Express to develop APIs and backend services.
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,mysql,mongodb,nodejs,php,py,react,vscode)](https://skillicons.dev)
 
 I have a keen interest in artificial intelligence and have been actively exploring various AI technologies in my projects. Along with that, I'm well-versed in working with databases like MySQL, MariaDB, and MongoDB for efficient data management.
 
